@@ -11,14 +11,11 @@
   "author": "daniel-miguel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
   }
 }
-
-
- 
-  
-
